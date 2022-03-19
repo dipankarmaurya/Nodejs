@@ -1,3 +1,0 @@
-this text file is created by node js
-hello, how are you?
-hello, how are you?
